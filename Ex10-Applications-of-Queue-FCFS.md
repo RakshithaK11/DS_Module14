@@ -29,7 +29,7 @@ int turnaroundtime( int proc[], int n,int burst_time[], int wait_time[], int tat
 */ 
 
 
-
+~~~
 
 ## Output:
 
